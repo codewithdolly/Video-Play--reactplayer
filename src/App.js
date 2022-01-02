@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import AccessAlarmIcon from '@mui/icons-material/AccessAlarm';
